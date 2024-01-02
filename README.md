@@ -39,7 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # What's this all about?
 
-A couple of suggestions brought up this project where the KapeVSC community can practice and contribute using their web technology skills by developing a simple application.
+A couple of suggestions brought up this project where the KapeVSC community can practice and contribute using their web development skills by developing a simple application.
 
 # This Project
 
@@ -47,7 +47,7 @@ A simple calendar application that allows our discord community members to use i
 
 # Requirements
 
-As a user, I want to be able to record my data in a chornological order using calendar grid system so that I could easily recall and share to others what happened on a particular date and time.
+As a user, I want to be able to record my data in a chronological order using calendar grid system so that I could easily recall and share to others what happened on a particular date and time.
 
 ## Acceptance Criteria
 
@@ -65,6 +65,8 @@ The project as initialized using [NextJS](https://nextjs.org) instructions and p
 
 If you want to contribute to this project, checkout the git [repository](https://github.com/Programmer-Kape/kape-cal-collab) and start coding. Contact **@psycotrompus** from the discord server if you need further assistenace. He's currently acting as the project lead.
 
-If you want to push your changes, do so with careful consideration of other contributor's work. Always `fetch` and `pull` the latest commits first before pushing yours.
+If you want to push your changes, do so with careful consideration of other contributor's work.
+
+> Always `fetch` and `pull` the latest commits first before pushing yours.
 
 **Happy Coding!**
